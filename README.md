@@ -1,4 +1,7 @@
 # The fullstack excercise
+![Coursera](https://img.shields.io/badge/Coursera-0747a6?style=flat&logo=coursera&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta-0668E1?style=flat&logo=meta&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white)  
 
 This is my solution to the final fullstack excercise which requires displaying the booking times.
 
